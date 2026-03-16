@@ -1,4 +1,10 @@
 hii shreyu
+<<<<<<< HEAD
 jk super cemrnt katte tul
 
 ubunutu
+=======
+hjkhjk
+>>>>>>> feature
+
+gpoewgje
